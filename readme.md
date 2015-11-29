@@ -6,8 +6,9 @@ This plugin uses the new NextPVR webservice and handles channels with sub-channe
 
 This is super early code, and while it works for me, you may need ot tweak it. As always, copy the npvr.bundle to your Plex Media Server plug-ins folder to use. Make sure you configure this plugin (with the settings gear icon in Plex).
 
-I intend to add channel icons for Live TV and am considering adding more function in the future.
+To add icons to your channels, just name the image file (PNG's only) the name of the channel name and drop them in the Resources folder of this plugin.  The channel name is the first word or words you see before the channel number in the channels listing.  For example: WISN-TV (12.1) Entertainers: With Some Guy.  WISN-TV is the channel name, so make an icon called wisn-tv.png  or CW 18 (18.1) Noel - CW 18 is the name, so make the icon called cw 18.png (watch out of capitalization in linux).
 
+
+Some References:
 <a href="http://www.freepik.com/free-photos-vectors/icon">Icon vector designed by Freepik</a>
-
 <a href="http://www.1001freefonts.com/designer-nicks-fonts-fontlisting.php">Aerovias Brasil by Nick</a>
