@@ -1,0 +1,19 @@
+[
+    {
+        "id": "version",
+        "type": "text",
+        "label": "Version Number (no need to change)",
+        "default": "0.1.0" 
+    },{
+        "id": "server",
+        "type": "text",
+        "label": "Server Name",
+        "default": "" 
+    },
+    {
+        "id": "port",
+        "type": "text",
+        "label": "Port",
+        "default": "8866" 
+    }
+]
