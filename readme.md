@@ -1,4 +1,4 @@
-Plex plugin for use with NextPVR
+Plex plugin for use with NextPVR - http://www.nextpvr.com/
 
 This is a super-early release of a NextPVR plugin for Plex for watching live TV. Please have the latest versions of both. Thanks to psyciknz (https://github.com/psyciknz/NextPVR-Plex) for his code which I used for an example. I've updated / changed the code base enough I didn't think it prudent to fork.
 
