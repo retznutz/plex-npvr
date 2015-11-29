@@ -7,3 +7,7 @@ This plugin uses the new NextPVR webservice and handles channels with sub-channe
 This is super early code, and while it works for me, you may need ot tweak it. As always, copy the npvr.bundle to your Plex Media Server plug-ins folder to use. Make sure you configure this plugin (with the settings gear icon in Plex).
 
 I intend to add channel icons for Live TV and am considering adding more function in the future.
+
+<a href="http://www.freepik.com/free-photos-vectors/icon">Icon vector designed by Freepik</a>
+
+<a href="http://www.1001freefonts.com/designer-nicks-fonts-fontlisting.php">Aerovias Brasil by Nick</a>
