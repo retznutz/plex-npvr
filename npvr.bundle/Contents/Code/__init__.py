@@ -124,7 +124,7 @@ def CreateVideoClipObject(url, title, summary, rating_key, call_sign='', channel
         
     Log('CreateVideoClipObject: Playvideo: ' + url)
     track_object = EpisodeObject(
-      key = Callback(CreateVideoClipObject, url=url, title=title, summary=summary, rating_key=rating_key,channel=channel,container=container,include_container=True, includeRelated=False,includeRelatedCount=False),
+      key = Callback(CreateVideoClipObject, url=url, title=title, summary=summary, rating_key=rating_key,call_sign=call_sign,channel=channel,container=container,include_container=True, includeRelated=False,includeRelatedCount=False),
       title = title ,
       summary = summary,
       originally_available_at = datetime.datetime.now(),
